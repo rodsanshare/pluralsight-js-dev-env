@@ -24,6 +24,8 @@ https://rcsjournal.azurewebsites.net/document?id=56
 
 
 Recent Commands: 
+npm start -s //silent mode
+"start": "npm-run-all --parallel open:src",
 lt --port 3000 --subdomain rodney
 npm install localtunnel -g
 node buildScripts/srcServer.js 
