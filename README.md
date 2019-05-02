@@ -20,7 +20,10 @@ What Belongs in Your Starter Kit?
 15. Automated deployment 
 16. Working example app 
 
+https://rcsjournal.azurewebsites.net/document?id=56
 
 
 Recent Commands: 
+lt --port 3000 --subdomain rodney
+npm install localtunnel -g
 node buildScripts/srcServer.js 
