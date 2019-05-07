@@ -46,7 +46,8 @@ export default {
         minifyCSS: true,
         minifyURLs: true
       },
-      inject: true
+      inject: true,
+      dsn4Sentry: 'https://68882e2a8426422e994fef571d86393a@sentry.io/1454352'
     }),
 
     // Eliminate duplicate packages when generating bundle
