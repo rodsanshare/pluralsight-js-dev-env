@@ -1,6 +1,11 @@
 Pluralsight - Building a JavaScript Development Environment 
 by Cory House 
 
+End to end workflow
+npm start -s (for Development)
+npm run build -s (builds the dist folder)
+npm run deploy (deploys the dist folder)
+
 
 What Belongs in Your Starter Kit?  
 1. Package Management  
